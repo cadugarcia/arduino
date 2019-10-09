@@ -1,0 +1,25 @@
+- Aula 03
+
+* comando para quebrar a linha e printar embaixo:  print+ ln (line next) = println.
+
+for (int i=0; i<10; i
+
+Variáveis:
+
+ - int (aceita numeros inteiros) 
+
+ - float (aceita numeros inteiros e não inteiros) colocando as casas decimais, ele armazena números inteiros com mais precisão.
+   *** mas consomen mais memória do arduino
+
+ * int e floar são duas variáveis para tratar números.
+
+
+Nomes de Variáveis.
+
+ - não podem ter espaços, nem caracteres especiais.
+
+ - não podem ter nomes de palavras reservadas para a linguagem arduino
+ 
+ - usar a técnica do 'camelo' para nomear variáveis.  (usa a segunda palavra com a letra Maiuscula para juntar as palavras).
+
+ - usar a técnica do 'CLEAN CODE' ( uma forma de vc organizar e comentar seu código de forma que outra pessoa entenda).
