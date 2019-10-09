@@ -1,0 +1,63 @@
+Operadores lógicos
+
+E (AND)
+&&
+
+OU (OR)
+||
+
+NÃO (NOT)
+!
+
+Dica (curriculo criativo):
+http://www.rleonardi.com/interactive-resume/
+
+Superdica:
+Linkedin
+GIT / GITHUB
+
+____________________________________________
+Atividade 7:
+Desenvolver um APP para a justiça eleitoral.
+Em função da idade o APP deverá informar se o
+voto é obrigatório ou não, de acordo com as
+condições abaixo:
+- menor que 16 anos (PROIBIDO VOTAR)
+- entre 18 e 70 (VOTO OBRIGATÓRIO)
+- 16,17 ou acima de 70 anos (VOTO FACULTATIVO) 
+
+variável:
+idade (numérico)
+
+else if (comparações)
+______________________________________________
+Atividades:
+
+1)
+APP Cálculo da média:
+- média menor ou igual a 2 (REPROVADO)
+- média entre 2 e 5 (RECUPERAÇÃO)
+- média maior ou igual a 5 (APROVADO)
+
+if (media <= 2){
+  //REPROVADO
+}else if (media >= 5){
+  //APROVADO
+}else{
+  //RECUPERAÇÃO
+}
+
+
+
+2)
+Finalizar o APP Cálculo do IMC informando
+o status de acordo com a tabela IMC
+http://www.calculoimc.com.br/
+
+
+
+
+
+
+
+

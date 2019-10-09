@@ -1,0 +1,105 @@
+Desenvolver um APP que faça a conversão de 
+temperatura de Celsius para Fahrenheit
+
+variáveis
+c, f (numéricas)
+
+entrada
+c
+
+processamento
+f = c * 1.8 + 32
+
+saída
+f
+________________________________________
+ATENÇÃO !!!
+Não usar o mesmo nome para variáveis, 
+objetos e funções
+
+________________________________________
+Estruturas de controle
+- condicionais
+- laços de repetições
+________________________________________
+Comparadores
+
+>  maior que
+>= maior ou igual a
+<  menor que
+<= menor ou igual a
+== igual
+!= diferente
+
+
+
+________________________________________
+if (condição){
+  //verdadeiro
+}
+
+if (condição){
+  //verdadeiro
+}else{
+  //falso
+}
+
+*** nunca as duas condições (verdadeiro e
+    falso) serão executadas simultaneamente
+
+Encadeamento do if (else if)
+
+if (condição 1){
+  //condição 1 verdadeira
+}else if (condição 2){
+  //condição 2 verdadeira
+}else{
+  //caso nenhuma das condições anteriores seja verdadeira
+}
+
+*** é possível realizar diversos testes lógicos)
+*** se um teste for verdadeiro os demais são ignorados
+*** o else final não é obrigatório, porém se usado irá
+    exibir o resultado caso nenhuma condição anterior
+    seja verdadeira.
+___________________________________
+Dica: recursos
+Cálculo da média:
+Exemplo1:
+2 estruturas (if)
+3 comparadores (< > =)
+1 operador lógico (OR)
+
+Exemplo2:
+if (media < 5){
+  //reprovado
+}else{
+  //aprovado
+}
+
+1 estruturas (if else)
+1 comparadores (<)
+
+_________________________________________
+Atividade 4
+Regra de 3
+
+10% de 200 = 20
+
+X% de Y = valor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

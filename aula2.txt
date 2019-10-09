@@ -1,0 +1,66 @@
+usuário: t-qm-198868
+senha: yh2mbQkK
+
+_______________________________________
+APP Inventor
+Emulador:
+https://appinventor.mit.edu/explore/ai2/setup-emulator.html
+
+Instalando o APP no Smartphone
+Passo 1: Gerar o QR code do arquivo executável .apk
+Passo 2: Configurar o Smartphone para permitir 
+         a instalação de fontes desconhecidas
+Passo 3: Fechar abas do navegador principal
+Passo 4: Ler o QR Code e seguir as instruções de
+         instalação
+
+________________________________________________
+Fazendo backuo do app inventor
+Código fonte:  .aia
+
+________________________________________________
+Dica: Para criar um ícone de instalação, é necessário
+      o formato .png e tamanho 512 x 512px
+
+________________________________________________
+Atividade 2:
+Cálculo do IMC
+Parte 1: Algorítimo
+IMC é o indice de massa corporal para medir o grau
+de obesidade:
+           peso 
+imc = _______________
+                2
+          altura
+
+variáveis:
+imc, peso, altura (numéricas)
+
+Entrada:
+peso, altura
+
+Processamento:
+imc = peso / (altura * altura)
+
+Saída:
+imc
+
+Parte 2: Fluxograma
+draw.io
+
+Parte 3: Desenvolvimento do software
+
+_________________________________________
+Atividade 3:
+Terminar o APP IMC
+
+Desenvolver um APP que faça a conversão de 
+temperatura de Celsius para Fahrenheit
+
+
+
+
+
+
+
+

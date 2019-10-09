@@ -1,0 +1,5 @@
+Atividade 8 (auto avaliação)
+Desenvolver um APP (tema livre)
+- algorítimo
+- fluxograma
+- APP (app inventor)

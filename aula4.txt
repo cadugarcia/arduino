@@ -1,0 +1,108 @@
+Lógico do APP Regra de 3
+ X% de Y = valor
+20% de 200 = valor
+
+ 200  ------  100 %
+valor ------  20%
+
+valor x 100 = 200 x 20
+
+         200 x 20     4000 
+valor = ----------  = ----  = 40
+            100        100
+
+
+           Y x X  
+valor =   -------
+            100  
+
+valor = (x * y)/100
+
+Variáveis: valor, x e y (numéricas)
+
+Entrada: x, y
+Processamento: valor = (x * y)/100
+Saída: valor
+
+______________________________________
+Atividade 5: PDV
+Desenvolver um PDV(ponto de vendas),
+conforme modelo abaixo:
+
+Valor total: 200,00  (entrada)
+Desconto(%): 10      (entrada)
+Total com desconto:
+Total - desconto
+
+Variáveis:
+total, desconto, totalDesconto
+
+Entrada:
+total, desconto
+
+Processamento:
+totalDesconto = total - (desconto * total)/100
+
+Saída:
+totalDesconto
+
+Troco:
+troco = valorPago - totalDesconto
+
+Variáveis:
+troco, valorPago
+
+Entrada:
+valorPago
+
+Processamento:
+troco = valorPago - totalDesconto
+
+Saída:
+troco
+
+_____________________________________
+Atividade 6:
+APP Álcool x Gasolina
+O uso do álcool é vantajoso se o litro custar
+até 70% do valor do litro da gasolina. Isso ocorre
+porque motores abastecidos com álcool consomem 30%
+a mais, em média, do que os abastecidos com gasolina.
+
+variáveis:
+alcool
+gasolina
+
+entrada:
+alcool
+gasolina
+
+processamento:
+
+if (alcool < 0.7 * gasolina){
+//verdadeiro (ÁLCOOL)
+} else {
+// falso (GASOLINA)
+}
+
+saída:
+mensagem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________
+Alexandre
+

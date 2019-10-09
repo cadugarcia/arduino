@@ -1,0 +1,124 @@
+José de Assis
+
+40 horas
+12 aulas
+6 aulas
+visual script
+6 aulas
+linguagem
+
+
+Atividade:
+
+code.org
+Desafio do labirinto clássico
+
+_________________________________
+Dicas:
+apinfo.com
+tiobe.com
+appinventor.mit.edu
+
+________________________________________
+Lógica de programação:
+
+Algorítimo ("receita de bolo")
+
+1) Desenvolver um APP para calcular a média
+   de duas notas.
+
+  ENTRADA -----> PROCESSAMENTO -------> SAÍDA
+                       |
+                    MEMÓRIA
+
+Memória (variáveis)
+nota1
+nota2
+media
+
+* nome da variáveis não podem ter caracteres
+  especiais nem espaço
+* quando for nomear uma variável com 2
+  palavras usar a técnica do camelo
+nome cliente
+nomecliente
+nome_cliente
+
+"Camel case"
+nomeCliente
+
+Entrada:
+nota1
+nota2
+
+Processamento:
+
+         nota1 + nota2
+media = _______________
+               2
+
+Operadores aritméticos
+
++ SOMA
+- SUBTRAÇÃO
+/ DIVISÃO
+* MULTIPLICAÇÃO
+% Resto da divisão
+++ incremento (soma 1 ao resultado)
+-- decremento (subtrai 1 do resultado) 
+
+Exemplos:
+
+10 + 2 = 12
+10 - 2 = 8
+10 / 2 = 5
+10 * 2 = 20
+10 % 2 = 0
+10 % 3 = 1
+x = 10 ; x++ ; x = 11
+x = 10 ; x-- ; x = 9
+
+media = (nota1 + nota2) / 2
+
+SAÍDA
+media
+
+________________________________________
+Tipos de variáveis:
+
+Numéricas (trabalham com números)
+String (trabalha com uma cadeia de caracteres)
+Booleam (trabalha com verdadeiro ou falso)
+
+____________________________________________
+Fluxograma:
+draw.io (ferramenta online)
+
+____________________________________________
+Dicas para desenvolver um Aplicativo:
+
+1) Saber fazer (entender o problema)
+2) Desenvolver pensando no usuário
+3) Usar o mínimo de código
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
